@@ -1,0 +1,89 @@
+<NotepadPlus>
+    <InternalCommands>
+        <Shortcut id="50001" Ctrl="yes" Alt="no" Shift="no" Key="188" />
+        <Shortcut id="44051" Ctrl="no" Alt="no" Shift="no" Key="0" />
+        <Shortcut id="44052" Ctrl="no" Alt="no" Shift="no" Key="0" />
+        <Shortcut id="44053" Ctrl="no" Alt="no" Shift="no" Key="0" />
+        <Shortcut id="44054" Ctrl="no" Alt="no" Shift="no" Key="0" />
+        <Shortcut id="44055" Ctrl="no" Alt="no" Shift="no" Key="0" />
+        <Shortcut id="44056" Ctrl="no" Alt="no" Shift="no" Key="0" />
+        <Shortcut id="44057" Ctrl="no" Alt="no" Shift="no" Key="0" />
+        <Shortcut id="47008" Ctrl="no" Alt="no" Shift="no" Key="112" />
+        <Shortcut id="47000" Ctrl="no" Alt="no" Shift="no" Key="0" />
+        <Shortcut id="44058" Ctrl="no" Alt="no" Shift="no" Key="0" />
+        <Shortcut id="44061" Ctrl="no" Alt="no" Shift="no" Key="0" />
+        <Shortcut id="44062" Ctrl="no" Alt="no" Shift="no" Key="0" />
+        <Shortcut id="44063" Ctrl="no" Alt="no" Shift="no" Key="0" />
+        <Shortcut id="44064" Ctrl="no" Alt="no" Shift="no" Key="0" />
+        <Shortcut id="44065" Ctrl="no" Alt="no" Shift="no" Key="0" />
+        <Shortcut id="44066" Ctrl="no" Alt="no" Shift="no" Key="0" />
+        <Shortcut id="44067" Ctrl="no" Alt="no" Shift="no" Key="0" />
+        <Shortcut id="44068" Ctrl="no" Alt="no" Shift="no" Key="0" />
+        <Shortcut id="42026" Ctrl="no" Alt="no" Shift="no" Key="0" />
+        <Shortcut id="42027" Ctrl="no" Alt="no" Shift="no" Key="0" />
+        <Shortcut id="43005" Ctrl="no" Alt="no" Shift="no" Key="113" />
+        <Shortcut id="43006" Ctrl="yes" Alt="no" Shift="no" Key="113" />
+        <Shortcut id="44030" Ctrl="yes" Alt="yes" Shift="no" Key="71" />
+        <Shortcut id="44031" Ctrl="yes" Alt="yes" Shift="yes" Key="71" />
+    </InternalCommands>
+    <Macros>
+        <Macro name="&#x6D4F;&#x89C8;&#x5668;&#x524D;&#x7F00;" Ctrl="yes" Alt="yes" Shift="no" Key="66">
+            <Action type="0" message="2453" wParam="0" lParam="0" sParam="" />
+            <Action type="0" message="2469" wParam="0" lParam="0" sParam="" />
+            <Action type="0" message="2469" wParam="0" lParam="0" sParam="" />
+            <Action type="0" message="2469" wParam="0" lParam="0" sParam="" />
+            <Action type="0" message="2469" wParam="0" lParam="0" sParam="" />
+            <Action type="1" message="2170" wParam="0" lParam="0" sParam="-" />
+            <Action type="1" message="2170" wParam="0" lParam="0" sParam="w" />
+            <Action type="1" message="2170" wParam="0" lParam="0" sParam="e" />
+            <Action type="1" message="2170" wParam="0" lParam="0" sParam="b" />
+            <Action type="1" message="2170" wParam="0" lParam="0" sParam="k" />
+            <Action type="1" message="2170" wParam="0" lParam="0" sParam="i" />
+            <Action type="1" message="2170" wParam="0" lParam="0" sParam="t" />
+            <Action type="1" message="2170" wParam="0" lParam="0" sParam="-" />
+            <Action type="0" message="2453" wParam="0" lParam="0" sParam="" />
+            <Action type="0" message="2300" wParam="0" lParam="0" sParam="" />
+            <Action type="1" message="2170" wParam="0" lParam="0" sParam="-" />
+            <Action type="1" message="2170" wParam="0" lParam="0" sParam="m" />
+            <Action type="1" message="2170" wParam="0" lParam="0" sParam="o" />
+            <Action type="1" message="2170" wParam="0" lParam="0" sParam="z" />
+            <Action type="1" message="2170" wParam="0" lParam="0" sParam="-" />
+            <Action type="0" message="2453" wParam="0" lParam="0" sParam="" />
+            <Action type="0" message="2300" wParam="0" lParam="0" sParam="" />
+            <Action type="1" message="2170" wParam="0" lParam="0" sParam="-" />
+            <Action type="1" message="2170" wParam="0" lParam="0" sParam="m" />
+            <Action type="1" message="2170" wParam="0" lParam="0" sParam="s" />
+            <Action type="1" message="2170" wParam="0" lParam="0" sParam="-" />
+            <Action type="0" message="2453" wParam="0" lParam="0" sParam="" />
+            <Action type="0" message="2300" wParam="0" lParam="0" sParam="" />
+            <Action type="1" message="2170" wParam="0" lParam="0" sParam="-" />
+            <Action type="1" message="2170" wParam="0" lParam="0" sParam="o" />
+            <Action type="1" message="2170" wParam="0" lParam="0" sParam="-" />
+            <Action type="0" message="2451" wParam="0" lParam="0" sParam="" />
+            <Action type="0" message="2300" wParam="0" lParam="0" sParam="" />
+            <Action type="2" message="0" wParam="41006" lParam="0" sParam="" />
+        </Macro>
+    </Macros>
+    <UserDefinedCommands>
+        <Command name="&#x7528; Firefox &#x9884;&#x89C8;" Ctrl="yes" Alt="yes" Shift="yes" Key="88">firefox &quot;$(FULL_CURRENT_PATH)&quot;</Command>
+        <Command name="&#x7528; IE &#x9884;&#x89C8;" Ctrl="yes" Alt="yes" Shift="yes" Key="73">iexplore &quot;$(FULL_CURRENT_PATH)&quot;</Command>
+        <Command name="&#x7528; Chrome  &#x9884;&#x89C8;" Ctrl="yes" Alt="yes" Shift="yes" Key="82">chrome &quot;$(FULL_CURRENT_PATH)&quot;</Command>
+        <Command name="&#x7528; Safari &#x9884;&#x89C8;" Ctrl="yes" Alt="yes" Shift="yes" Key="70">safari &quot;$(FULL_CURRENT_PATH)&quot;</Command>
+        <Command name="Google &#x641C;&#x7D22;" Ctrl="no" Alt="no" Shift="no" Key="0">http://www.google.com/search?q=$(CURRENT_WORD)</Command>
+        <Command name="Google &#x7FFB;&#x8BD1;" Ctrl="no" Alt="no" Shift="no" Key="0">http://translate.google.cn/?hl=zh-CN&amp;tab=wT#auto/zh-CN/$(CURRENT_WORD)</Command>
+        <Command name="Baidu &#x641C;&#x7D22;" Ctrl="no" Alt="no" Shift="no" Key="0">http://www.baidu.com/s?wd=$(CURRENT_WORD)</Command>
+        <Command name="Baidu &#x7FFB;&#x8BD1;" Ctrl="yes" Alt="yes" Shift="yes" Key="84">http://fanyi.baidu.com/#auto2auto|$(CURRENT_WORD)</Command>
+        <Command name="&#x83B7;&#x5F97; php &#x5E2E;&#x52A9;" Ctrl="no" Alt="yes" Shift="no" Key="112">http://www.php.net/%20$(CURRENT_WORD)</Command>
+        <Command name="&#x7EF4;&#x57FA;&#x641C;&#x7D22;" Ctrl="no" Alt="yes" Shift="no" Key="113">http://en.wikipedia.org/wiki/Special:Search?search=$(CURRENT_WORD)</Command>
+        <Command name="&#x6253;&#x5F00;&#x6587;&#x4EF6;" Ctrl="no" Alt="yes" Shift="no" Key="114">$(NPP_DIRECTORY)\notepad++.exe $(CURRENT_WORD)</Command>
+        <Command name="&#x6253;&#x5F00;&#x53E6;&#x4E00;&#x4E2A;&#x5B9E;&#x4F8B;" Ctrl="no" Alt="yes" Shift="no" Key="115">$(NPP_DIRECTORY)\notepad++.exe $(CURRENT_WORD) -nosession -multiInst</Command>
+        <Command name="&#x6253;&#x5F00;&#x5305;&#x542B;&#x6587;&#x4EF6;&#x5939;" Ctrl="yes" Alt="yes" Shift="no" Key="79">explorer $(CURRENT_DIRECTORY)</Command>
+        <Command name="&#x6253;&#x5F00; cmd &#x547D;&#x4EE4;&#x6A21;&#x5F0F;" Ctrl="no" Alt="no" Shift="no" Key="0">cmd /K cd $(CURRENT_DIRECTORY)</Command>
+        <Command name="Run Python" Ctrl="yes" Alt="no" Shift="no" Key="116">cmd /c python &quot;$(FULL_CURRENT_PATH)&quot; &amp; PAUSE</Command>
+        <Command name="Run Nodejs" Ctrl="yes" Alt="no" Shift="yes" Key="116">cmd /c node &quot;$(FULL_CURRENT_PATH)&quot; &amp; PAUSE</Command>
+    </UserDefinedCommands>
+    <PluginCommands />
+    <ScintillaKeys>
+        <ScintKey ScintID="2011" menuCmdID="42004" Ctrl="yes" Alt="no" Shift="yes" Key="90" />
+    </ScintillaKeys>
+</NotepadPlus>
