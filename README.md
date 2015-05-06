@@ -8,6 +8,12 @@
 
 3. 快速处理和自定义片段生成，提高前端编码效率
 
+## 项目主页
+
+[Home Page](http://wwh447.github.io/notepad-plus)
+
+[Github](https://github.com/wwh447/notepad-plus)
+
 ## 更新日志
 
 ### 1.0.56
