@@ -674,7 +674,8 @@ Abbr = {
 				   ' */',
 			
 			//自定义JQuery片段.
-			'ready': '(function(${dollar}) {\n\n\t|\n\n})(jQuery);'
+			'ready': '(function(${dollar}) {\n\n\t|\n\n})(jQuery);',
+			'angular': 'angular.module("", []).controller("", function(${dollar}scope) {\n\n\t|\n\n});'
 			
 		},
 		
