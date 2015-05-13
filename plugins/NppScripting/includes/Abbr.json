@@ -591,6 +591,22 @@ Abbr = {
 					'<body>\n\t${child}|\n</body>\n' +
 					'</html>',
 					
+			'html:ng': '<!doctype html>\n' +
+					'<html lang="${locale}" ng-app="myApp">\n' +
+					'<head>\n' +
+					'	<meta charset="${charset}" />\n' +
+					'	<title>Hello AngularJS</title>\n' +
+					'</head>\n' +
+					'<body>\n' +
+					'	\n' +
+					'	${child}|\n' +
+					'	\n' +
+					'	<script src="../build/bower_components/angularjs/angular.js"></script>\n'+
+					'	<script src=""></script>\n'+
+					'	\n' +
+					'</body>\n' +
+					'</html>',
+					
 			'html:demo': '<!doctype html>\n' +
 					'<html lang="${locale}">\n' +
 					'<head>\n' +
