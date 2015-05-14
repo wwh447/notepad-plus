@@ -67,6 +67,7 @@
 <KeyWord name="contextmenu=&quot;&quot;" />
 <KeyWord name="coords" />
 <KeyWord name="coords=&quot;&quot;" />
+<KeyWord name="currency" />
 <KeyWord name="dashed" />
 <KeyWord name="data-direction=&quot;&quot;" alt="jquerymobile" />
 <KeyWord name="data-direction=&quot;reverse&quot;" alt="jquerymobile" />
@@ -98,6 +99,7 @@
 <KeyWord name="data-yourvalue=&quot;&quot;" />
 <KeyWord name="datalist" />
 <KeyWord name="datalist&gt;&lt;option value=&quot;&quot;&gt;&lt;/option&gt;&lt;/datalist&gt;" />
+<KeyWord name="date" />
 <KeyWord name="dd" />
 <KeyWord name="debug" />
 <KeyWord name="declare=&quot;declare&quot;" />
@@ -122,6 +124,7 @@
 <KeyWord name="enctype" />
 <KeyWord name="fieldset" />
 <KeyWord name="figcaption" />
+<KeyWord name="filter" />
 <KeyWord name="font" />
 <KeyWord name="footer" />
 <KeyWord name="foreach" />
@@ -168,6 +171,7 @@
 <KeyWord name="item=&quot;&quot;" />
 <KeyWord name="itemprop=&quot;&quot;" />
 <KeyWord name="javascript" />
+<KeyWord name="json" />
 <KeyWord name="kbd" />
 <KeyWord name="keygen" />
 <KeyWord name="keygen autofocus=&quot;&quot; challenge=&quot;&quot; disabled=&quot;&quot; form=&quot;&quot; keytype=&quot;&quot; name=&quot;&quot;&gt;&lt;/keygen&gt;" />
@@ -176,8 +180,10 @@
 <KeyWord name="lang=&quot;&quot;" />
 <KeyWord name="legend" />
 <KeyWord name="li" />
+<KeyWord name="limitTo" />
 <KeyWord name="link" />
 <KeyWord name="link rel=&quot;stylesheet&quot; href=&quot;&quot; /&gt;" />
+<KeyWord name="lowercase" />
 <KeyWord name="map" />
 <KeyWord name="mark" />
 <KeyWord name="menu" />
@@ -268,6 +274,7 @@
 <KeyWord name="noshade=&quot;noshade&quot;" />
 <KeyWord name="novalidate" />
 <KeyWord name="nowrap=&quot;nowrap&quot;" />
+<KeyWord name="number" />
 <KeyWord name="object" />
 <KeyWord name="ol" />
 <KeyWord name="onabort=&quot;&quot;" />
@@ -341,6 +348,7 @@
 <KeyWord name="onwaiting=&quot;&quot;" />
 <KeyWord name="optgroup" />
 <KeyWord name="option" />
+<KeyWord name="orderBy" />
 <KeyWord name="output" />
 <KeyWord name="output for=&quot;&quot; form=&quot;&quot; name=&quot;&quot;&gt;&lt;/output&gt;" />
 <KeyWord name="over" />
@@ -349,6 +357,7 @@
 <KeyWord name="password" />
 <KeyWord name="placeholder" />
 <KeyWord name="pre" />
+<KeyWord name="product" />
 <KeyWord name="progress" />
 <KeyWord name="progress max=&quot;&quot; value=&quot;&quot;&gt;&lt;/progress&gt;" />
 <KeyWord name="q" />
@@ -417,6 +426,7 @@
 <KeyWord name="type=&quot;&quot;" />
 <KeyWord name="u" />
 <KeyWord name="ul" />
+<KeyWord name="uppercase" />
 <KeyWord name="usemap" />
 <KeyWord name="valign" />
 <KeyWord name="valign=&quot;baseline&quot;" />
