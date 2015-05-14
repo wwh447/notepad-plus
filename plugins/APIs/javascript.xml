@@ -1853,6 +1853,17 @@
 <KeyWord name="scale(sx,sy)" alt="canvas" />
 <KeyWord name="scheme" />
 <KeyWord name="scope" />
+<KeyWord name="scope.$apply()" />
+<KeyWord name="scope.$applyAsync()" />
+<KeyWord name="scope.$broadcast()" />
+<KeyWord name="scope.$destroy()" />
+<KeyWord name="scope.$digest()" />
+<KeyWord name="scope.$emit()" />
+<KeyWord name="scope.$eval()" />
+<KeyWord name="scope.$evalAsync()" />
+<KeyWord name="scope.$on()" />
+<KeyWord name="scope.$watch()" />
+<KeyWord name="scope.$watchCollection()" />
 <KeyWord name="screen" />
 <KeyWord name="screenLeft" />
 <KeyWord name="screenTop" />
