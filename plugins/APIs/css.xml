@@ -50,6 +50,7 @@
 <KeyWord name="@page:left" />
 <KeyWord name="@page:right" />
 <KeyWord name="active" />
+<KeyWord name="adjust-hue" />
 <KeyWord name="after" />
 <KeyWord name="alternate" />
 <KeyWord name="animation" />
@@ -367,6 +368,7 @@
 <KeyWord name="column-span:" />
 <KeyWord name="column-width:" />
 <KeyWord name="columns:" />
+<KeyWord name="complement()" />
 <KeyWord name="contain" />
 <KeyWord name="content:&quot;&quot;;" />
 <KeyWord name="content:[string];" />
@@ -414,9 +416,11 @@
 <KeyWord name="cursor:vertical-text;" />
 <KeyWord name="cursor:w-resize;" />
 <KeyWord name="cursor:wait;" />
+<KeyWord name="darken()" />
 <KeyWord name="dashed" />
 <KeyWord name="decimal" />
 <KeyWord name="deg;" />
+<KeyWord name="desaturate()" />
 <KeyWord name="direction:inherit;" />
 <KeyWord name="direction:ltr;" />
 <KeyWord name="direction:rtl;" />
@@ -459,6 +463,7 @@
 <KeyWord name="empty-cells:hide;" />
 <KeyWord name="empty-cells:show;" />
 <KeyWord name="ex;" />
+<KeyWord name="extend" />
 <KeyWord name="fill:;" />
 <KeyWord name="fill:yellow;" />
 <KeyWord name="filter:;" />
@@ -514,12 +519,15 @@
 <KeyWord name="grad;" />
 <KeyWord name="gradient;" />
 <KeyWord name="gray;" />
+<KeyWord name="grayscale()" />
 <KeyWord name="green;" />
 <KeyWord name="height:" />
 <KeyWord name="height:100%;" />
 <KeyWord name="height:auto;" />
 <KeyWord name="hover" />
-<KeyWord name="Hz;" />
+<KeyWord name="hsl()" />
+<KeyWord name="hsla()" />
+<KeyWord name="hue()" />
 <KeyWord name="image-set()" alt="css3" />
 <KeyWord name="ime-mode:active;" />
 <KeyWord name="ime-mode:auto;" />
@@ -528,9 +536,11 @@
 <KeyWord name="import" />
 <KeyWord name="important;" />
 <KeyWord name="in;" />
+<KeyWord name="include" />
 <KeyWord name="include-source:url();" />
 <KeyWord name="infinite" />
 <KeyWord name="inset" />
+<KeyWord name="invert()" />
 <KeyWord name="keyframes" />
 <KeyWord name="kHz;" />
 <KeyWord name="last-child" />
@@ -557,6 +567,8 @@
 <KeyWord name="left:" />
 <KeyWord name="letter-spacing:" />
 <KeyWord name="letter-spacing:normal;" />
+<KeyWord name="lighten()" />
+<KeyWord name="lightness()" />
 <KeyWord name="lime;" />
 <KeyWord name="line-break:normal;" />
 <KeyWord name="line-break:strict;" />
@@ -661,6 +673,7 @@
 <KeyWord name="mask-size:cover;" />
 <KeyWord name="max-height:" />
 <KeyWord name="max-height:none;" />
+<KeyWord name="max-screen()" />
 <KeyWord name="max-width:" />
 <KeyWord name="max-width:none;" />
 <KeyWord name="media screen and (){}" />
@@ -826,6 +839,7 @@
 <KeyWord name="ruby-position:above;" />
 <KeyWord name="ruby-position:inline;" />
 <KeyWord name="s;" />
+<KeyWord name="saturate" />
 <KeyWord name="scroll" />
 <KeyWord name="scrollbar-3dlight-color:" />
 <KeyWord name="scrollbar-arrow-color:" />
