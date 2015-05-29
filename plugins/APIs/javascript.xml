@@ -363,6 +363,7 @@
 <KeyWord name="createRadialGradient()" alt="canvas" />
 <KeyWord name="createRadialGradient(xStart, yStart, radiusStart, xEnd, yEnd, radiusEnd" alt="canvas" />
 <KeyWord name="createRange()" />
+<KeyWord name="createServer()" />
 <KeyWord name="createStyleSheet()" />
 <KeyWord name="createTextNode()" />
 <KeyWord name="createTFoot()" />
@@ -739,6 +740,7 @@
 <KeyWord name="execScript()" />
 <KeyWord name="expando" />
 <KeyWord name="export" />
+<KeyWord name="exports" />
 <KeyWord name="expr" />
 <KeyWord name="extend({})" />
 <KeyWord name="extends" />
@@ -1334,11 +1336,8 @@
 <KeyWord name="min" />
 <KeyWord name="miterLimit" default="10" alt="canvas" />
 <KeyWord name="miterLimit = &quot;10&quot;" alt="canvas" />
-<KeyWord name="MODIFICATION" />
-<KeyWord name="MOUSEDOWN" />
-<KeyWord name="MOUSEDRAG" />
-<KeyWord name="MouseEvent" />
 <KeyWord name="module" />
+<KeyWord name="MouseEvent" />
 <KeyWord name="mousedown()" />
 <KeyWord name="mouseenter()" />
 <KeyWord name="MouseEvent()" />
@@ -1413,6 +1412,7 @@
 <KeyWord name="nextElementSibling" />
 <KeyWord name="nextPage" />
 <KeyWord name="nextSibling" />
+<KeyWord name="nextTick()" />
 <KeyWord name="nextUntil()" />
 <KeyWord name="no-repeat" />
 <KeyWord name="NO_DATA_ALLOWED_ERR" />
@@ -1441,6 +1441,7 @@
 <KeyWord name="normalizeDocument()" />
 <KeyWord name="noShade" />
 <KeyWord name="not()" />
+<KeyWord name="not(:animated)" />
 <KeyWord name="NOT_FOUND_ERR" />
 <KeyWord name="NOT_SUPPORTED_ERR" />
 <KeyWord name="Notation" />
@@ -1712,6 +1713,7 @@
 <KeyWord name="PROCESSING_INSTRUCTION_NODE" />
 <KeyWord name="ProcessingInstruction" />
 <KeyWord name="ProcessingInstruction()" />
+<KeyWord name="process" />
 <KeyWord name="product" />
 <KeyWord name="productSub" />
 <KeyWord name="profile" />
