@@ -12,6 +12,7 @@
 <KeyWord name="active" />
 <KeyWord name="activeElement" />
 <KeyWord name="add()" />
+<KeyWord name="addBack()" />
 <KeyWord name="addBinding()" />
 <KeyWord name="addClass()" />
 <KeyWord name="addColorStop()" alt="canvas" />
