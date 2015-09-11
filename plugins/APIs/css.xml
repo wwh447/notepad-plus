@@ -718,6 +718,7 @@
 <KeyWord name="nth-child(odd)" />
 <KeyWord name="nth-last-child()" />
 <KeyWord name="o-" />
+<KeyWord name="object-fit:cover;" />
 <KeyWord name="olive;" />
 <KeyWord name="opacity:" />
 <KeyWord name="orphans:" />
