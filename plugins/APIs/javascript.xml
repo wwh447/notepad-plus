@@ -21,7 +21,14 @@
 <KeyWord name="addEventListener()" />
 <KeyWord name="addEventListener(&quot;click&quot;,function(){},false)" />
 <KeyWord name="addEventListener(type,listener,useCapture)" />
-<KeyWord name="ADDITION" />
+<KeyWord name="addListener" func="yes">
+	<Overload retVal="string">
+		<Param name="event"/>
+	</Overload>
+	<Overload retVal="function">
+		<Param name="listener"/>
+	</Overload>
+</KeyWord>
 <KeyWord name="AddSearchProvider()" />
 <KeyWord name="adoptNode()" />
 <KeyWord name="after()" />
@@ -693,6 +700,14 @@
 <KeyWord name="else" />
 <KeyWord name="embeds" />
 <KeyWord name="embeds()" />
+<KeyWord name="emit" func="yes">
+	<Overload retVal="string">
+		<Param name="event"/>
+	</Overload>
+	<Overload retVal="mixed">
+		<Param name="[arguments ...]"/>
+	</Overload>
+</KeyWord>
 <KeyWord name="empty()" />
 <KeyWord name="enableExternalCapture()" />
 <KeyWord name="enableSmartCardEvents" />
@@ -1236,6 +1251,11 @@
 <KeyWord name="links()" />
 <KeyWord name="list" />
 <KeyWord name="listen" alt="node.js" />
+<KeyWord name="listeners">
+	<Overload retVal="string">
+		<Param name="event"/>
+	</Overload>
+</KeyWord>
 <KeyWord name="live()" />
 <KeyWord name="loaclhost" />
 <KeyWord name="load()" />
@@ -1519,6 +1539,14 @@
 <KeyWord name="oncached" />
 <KeyWord name="oncanplay" />
 <KeyWord name="oncanplaythrough" />
+<KeyWord name="once" func="yes">
+	<Overload retVal="string">
+		<Param name="event"/>
+	</Overload>
+	<Overload retVal="function">
+		<Param name="listener"/>
+	</Overload>
+</KeyWord>
 <KeyWord name="oncellchange" />
 <KeyWord name="onchange" />
 <KeyWord name="onchecking" />
@@ -1807,6 +1835,11 @@
 <KeyWord name="reload()" />
 <KeyWord name="REMOVAL" />
 <KeyWord name="remove()" />
+<KeyWord name="removeAllListeners" func="yes">
+	<Overload retVal="string">
+		<Param name="event"/>
+	</Overload>
+</keyWord>
 <KeyWord name="removeAttr()" />
 <KeyWord name="removeAttribute()" />
 <KeyWord name="removeAttributeNode()" />
@@ -1819,6 +1852,14 @@
 <KeyWord name="removeData()" />
 <KeyWord name="removeEvent()" />
 <KeyWord name="removeEventListener()" />
+<KeyWord name="removeListener" func="yes">
+	<Overload retVal="string">
+		<Param name="event"/>
+	</Overload>
+	<Overload retVal="function">
+		<Param name="listener"/>
+	</Overload>
+</keyWord>
 <KeyWord name="removeNode()" />
 <KeyWord name="removeProp()" />
 <KeyWord name="RENDERING_INTENT_ABSOLUTE_COLORIMETRIC" />
@@ -1955,6 +1996,11 @@
 <KeyWord name="setHours()" />
 <KeyWord name="setInterval()" />
 <KeyWord name="setInterval(function(){},1000)" />
+<KeyWord name="setMaxListeners" func="yes">
+	<Overload retVal="number">
+		<Param name="n"/>
+	</Overload>
+</KeyWord>
 <KeyWord name="setMilliseconds()" />
 <KeyWord name="setMinutes()" />
 <KeyWord name="setMonth()" />
