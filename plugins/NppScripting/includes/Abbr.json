@@ -690,7 +690,7 @@ Abbr = {
 				   ' */',
 			
 			//自定义JQuery片段.
-			'ready': '(function(${dollar}) {\n\n\t|\n\n})(jQuery);',
+			'ready': '~function() {\n\n\t|\n\n}(${dollar});',
 			'angular': 'angular.module("myApp", []).controller("HelloController", function(${dollar}scope) {\n\n\t|\n\n});'
 			
 		},
@@ -724,6 +724,7 @@ Abbr = {
 			'meta:viewport': '<meta name="viewport" content="width=device-width,initial-scale=1.0,maximum-scale=1.0,user-scalable=0" />',
 			'meta:k':'<meta name="keywords" content="" />',
 			'meta:d':'<meta name="description" content="" />',
+			'meta:robots':'<meta name="robots" content="noindex" />',
 			'style': '<style>',
 			'script': '<script>',
 			'script:src': '<script src="script/${1:main}.js">',

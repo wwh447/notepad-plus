@@ -719,6 +719,14 @@
 <KeyWord name="end()" />
 <KeyWord name="END_TO_END" />
 <KeyWord name="END_TO_START" />
+<KeyWord name="engine" func="yes">
+	<Overload retVal="string">
+		<Param name="template"/>
+	</Overload>
+	<Overload retVal="function">
+		<Param name="template"/>
+	</Overload>
+</KeyWord>
 <KeyWord name="enter" />
 <KeyWord name="enter()" />
 <KeyWord name="Entity" />
@@ -758,6 +766,7 @@
 <KeyWord name="export" />
 <KeyWord name="exports" />
 <KeyWord name="expr" />
+<KeyWord name="express" />
 <KeyWord name="extend({})" />
 <KeyWord name="extends" />
 <KeyWord name="external" />
@@ -1761,6 +1770,7 @@
 <KeyWord name="prevUntil()" />
 <KeyWord name="print()" />
 <KeyWord name="private" />
+<KeyWord name="process" />
 <KeyWord name="PROCESSING_INSTRUCTION_NODE" />
 <KeyWord name="ProcessingInstruction" />
 <KeyWord name="ProcessingInstruction()" />
@@ -1822,6 +1832,14 @@
 <KeyWord name="Rect" />
 <KeyWord name="Rect()" />
 <KeyWord name="rect()" alt="canvas" />
+<KeyWord name="redirect">
+	<Overload retVal="number">
+		<Param name="stateCode"/>
+	</Overload>
+	<Overload retVal="string">
+		<Param name="url"/>
+	</Overload>
+</KeyWord>
 <KeyWord name="reduce()" />
 <KeyWord name="reduceRight()" />
 <KeyWord name="ReferenceError" />
@@ -1862,6 +1880,14 @@
 </keyWord>
 <KeyWord name="removeNode()" />
 <KeyWord name="removeProp()" />
+<KeyWord name="render" func="yes">
+	<Overload retVal="string">
+		<Param name="name"/>
+	</Overload>
+	<Overload retVal="json">
+		<Param name="data"/>
+	</Overload>
+</KeyWord>
 <KeyWord name="RENDERING_INTENT_ABSOLUTE_COLORIMETRIC" />
 <KeyWord name="RENDERING_INTENT_AUTO" />
 <KeyWord name="RENDERING_INTENT_PERCEPTUAL" />
@@ -1983,6 +2009,7 @@
 <KeyWord name="self" />
 <KeyWord name="serialize()" />
 <KeyWord name="serializeArray()" />
+<KeyWord name="session" />
 <KeyWord name="sessionStorage" />
 <KeyWord name="setAttribute()" />
 <KeyWord name="setAttributeNode()" />
@@ -2601,6 +2628,11 @@
 <KeyWord name="url" />
 <KeyWord name="URL_MISMATCH_ERR" />
 <KeyWord name="URLUnencoded" />
+<KeyWord name="use" func="yes">
+	<Overload retVal="function">
+		<Param name="function"/>
+	</Overload>
+</KeyWord>
 <KeyWord name="useMap" />
 <KeyWord name="userAgent" />
 <KeyWord name="userLanguage" />
