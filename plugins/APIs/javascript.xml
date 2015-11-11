@@ -464,7 +464,6 @@
 <KeyWord name="ctrlKey" />
 <KeyWord name="ctrlLeft" />
 
-
 <KeyWord name="ctx." obj="#" alt="canvas" />
 <KeyWord name="ctx.addColorStop()" alt="canvas" />
 <KeyWord name="ctx.addColorStop(0,&quot;transparent&quot;)" alt="canvas" />
@@ -1474,9 +1473,16 @@
 <KeyWord name="not(:animated)" />
 <KeyWord name="NOT_FOUND_ERR" />
 <KeyWord name="NOT_SUPPORTED_ERR" />
-<KeyWord name="Notation" />
-<KeyWord name="Notation()" />
+<KeyWord name="Notation" func="yes">
+	<Overload retVal="string">
+		<Param name="title"/>
+	</Overload>
+	<Overload retVal="object">
+		<Param name="options"/>
+	</Overload>
+</KeyWord>
 <KeyWord name="NOTATION_NODE" />
+<KeyWord name="Notification()" />
 <KeyWord name="noValidate" />
 <KeyWord name="now()" />
 <KeyWord name="noWrap" />

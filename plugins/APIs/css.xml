@@ -306,7 +306,9 @@
 <KeyWord name="box-ordinal-group:" alt="css3" />
 <KeyWord name="box-ordinal-group:1;" />
 <KeyWord name="box-orient:" alt="css3" />
+<KeyWord name="box-orient:block-axis;" />
 <KeyWord name="box-orient:horizontal;" />
+<KeyWord name="box-orient:inline-axis;" />
 <KeyWord name="box-orient:vertical;" />
 <KeyWord name="box-pack:" alt="css3" />
 <KeyWord name="box-pack:center;" />
