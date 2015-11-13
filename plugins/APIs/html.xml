@@ -122,6 +122,9 @@
 <KeyWord name="embed height=&quot;&quot; width=&quot;&quot; src=&quot;&quot; type=&quot;&quot;&gt;&lt;/embed&gt;" />
 <KeyWord name="empty" />
 <KeyWord name="enctype" />
+<KeyWord name="enctype=&quot;application/x-www-form-urlencoded&quot;" />
+<KeyWord name="enctype=&quot;multipart/form-data&quot;" />
+<KeyWord name="enctype=&quot;text/plain&quot;" />
 <KeyWord name="fieldset" />
 <KeyWord name="figcaption" />
 <KeyWord name="filter" />
