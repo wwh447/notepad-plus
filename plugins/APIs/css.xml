@@ -720,7 +720,14 @@
 <KeyWord name="nth-child(odd)" />
 <KeyWord name="nth-last-child()" />
 <KeyWord name="o-" />
+<KeyWord name="object-fit:" />
+<KeyWord name="object-fit:contain;" />
 <KeyWord name="object-fit:cover;" />
+<KeyWord name="object-fit:fill;" />
+<KeyWord name="object-fit:none;" />
+<KeyWord name="object-fit:scale-down;" />
+<KeyWord name="object-position:" />
+<KeyWord name="object-position:left top;" />
 <KeyWord name="olive;" />
 <KeyWord name="opacity:" />
 <KeyWord name="orphans:" />
