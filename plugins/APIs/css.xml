@@ -421,6 +421,7 @@
 <KeyWord name="darken()" />
 <KeyWord name="dashed" />
 <KeyWord name="decimal" />
+<KeyWord name="define-extend" />
 <KeyWord name="deg;" />
 <KeyWord name="desaturate()" />
 <KeyWord name="direction:inherit;" />
